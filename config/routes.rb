@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resource :about, only: [:show] 
   root to: 'products#index'
 
   resources :products, only: [:index, :show]
