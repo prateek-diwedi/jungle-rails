@@ -42,6 +42,23 @@
             <li><%= link_to 'Categories', [:admin, :categories] %></li>
           </ul>
         </li>
+
+        <% if current_user %>
+           <li>
+             Signed in as <font color='#EE0000'><%=current_user.name%></font>
+          </li>
+          <li>
+            <%= link_to 'Logout', :logout %>
+          </li>
+        <% else %> 
+          <li>
+            <%= link_to 'Sign Up!', :signup %>
+          </li>
+          <li>
+            <%= link_to 'Login', :login %>
+          </li>
+        <% end %>
+
         <li>
           <%= link_to cart_path do %>
             <%= fa_icon "shopping-cart" %> My Cart (<%= cart.size %>)
