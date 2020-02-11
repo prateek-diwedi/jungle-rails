@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.feature "Visitor Product page", type: :feature, js: true do
+RSpec.feature "Add to cart", type: :feature, js: true do
 
 
   # SETUP
@@ -19,16 +19,16 @@ RSpec.feature "Visitor Product page", type: :feature, js: true do
   end
 
 
-  scenario "Open the product page" do
+  scenario "Add product to cart" do
     # ACT
     visit root_path
-    first('.product').click_on 'Details'
-    page.find('.products-show')
+    first('.product').click_on 'Add'
+    # page.find('.products-show')
     # DEBUG / VERIFY
-    # save_screenshot
+    save_screenshot
 
     # VERIFY
-    expect(page).to have_content 'Name'
+    expect(page).to have_content 'My Cart (1)'
   end
 
 end
