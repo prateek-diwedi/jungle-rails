@@ -25,3 +25,19 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## SCREEN SHOTS
+
+![Home Page] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/home%20page.png "Home Page")
+
+![Product Description] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/product%20description.png "Product Description")
+
+![My Cart] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/my%20cart.png "My cart")
+
+![Payment Details] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/payment%20details.png "Payment Details")
+
+![Payment Made] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/Payment%20made.png "Payment Made")
+
+![Order confirmation] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/Order%20Confirmation.png "Order Confirmation")
+
+
