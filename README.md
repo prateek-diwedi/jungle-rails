@@ -28,16 +28,16 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## SCREEN SHOTS
 
-![Home Page] (https://github.com/prateek-diwedi/jungle-rails/blob/master/data/home%20page.png "Homes Page")
+![Home Page] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/home%20page.png "Homes Page")
 
-![Product Description] (https://github.com/prateek-diwedi/jungle-rails/blob/master/data/product%20description.png "Products Description")
+![Product Description] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/product%20description.png "Products Description")
 
-![My Cart] (https://github.com/prateek-diwedi/jungle-rails/blob/master/data/my%20cart.png "My carts")
+![My Cart] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/my%20cart.png "My carts")
 
-![Payment Details] (https://github.com/prateek-diwedi/jungle-rails/blob/master/data/payment%20details.png "Payments Details")
+![Payment Details] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/payment%20details.png "Payments Details")
 
-![Payment Made] (https://github.com/prateek-diwedi/jungle-rails/blob/master/data/Payment%20made.png "Payments Made")
+![Payment Made] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/Payment%20made.png "Payments Made")
 
-![Order confirmation] (https://github.com/prateek-diwedi/jungle-rails/blob/master/data/Order%20Confirmation.png "Orders Confirmation")
+![Order confirmation] (https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/Order%20Confirmation.png "Orders Confirmation")
 
 
