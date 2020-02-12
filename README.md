@@ -28,16 +28,22 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## SCREEN SHOTS
 
+## Home Page
 !["Home Page"](https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/home%20page.png)
 
+## Product Description
 !["Product Description"](https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/product%20description.png)
 
+## My Cart
 !["My Cart"](https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/my%20cart.png)
 
+## Payment Details
 !["Payment Details"](https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/payment%20details.png)
 
+## Payment Made
 !["Payment Made"](https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/Payment%20made.png)
 
+## Order Confirmation
 !["Order confirmation"](https://github.com/prateek-diwedi/jungle-rails/blob/master/Data/Order%20Confirmation.png)
 
 
